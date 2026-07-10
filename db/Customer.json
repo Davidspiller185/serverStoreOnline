@@ -1,0 +1,32 @@
+[
+  {
+    "customerId": 1,
+    "balance": 500,
+    "cart": [],
+    "createdAt": "2026-07-10T14:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "balance": 500,
+    "cart": [],
+    "createdAt": "2026-07-10T14:01:00.000Z"
+  },
+  {
+    "customerId": 3,
+    "balance": 500,
+    "cart": [],
+    "createdAt": "2026-07-10T14:02:00.000Z"
+  },
+  {
+    "customerId": 4,
+    "balance": 500,
+    "cart": [],
+    "createdAt": "2026-07-10T14:03:00.000Z"
+  },
+  {
+    "customerId": 5,
+    "balance": 500,
+    "cart": [],
+    "createdAt": "2026-07-10T14:04:00.000Z"
+  }
+]
