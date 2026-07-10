@@ -1,7 +1,10 @@
 # הרצת הפרוייקט
+```bash
 node server.js
 curl/postman- עם הנתיב והפרמטרים אם צריך
+```
 # נתיבים
+```text
 # GET
 / 
 /health
@@ -14,3 +17,4 @@ curl/postman- עם הנתיב והפרמטרים אם צריך
 /order/checkout
 # DELETE
 /cart/items/:productId
+```
